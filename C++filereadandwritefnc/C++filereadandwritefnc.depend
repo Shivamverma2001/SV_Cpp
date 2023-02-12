@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615364518 source:d:\codeblocks\c++filereadandwritefnc\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+

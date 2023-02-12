@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615367100 source:d:\codeblocks\c++sequentialandrandomfileaccess\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+

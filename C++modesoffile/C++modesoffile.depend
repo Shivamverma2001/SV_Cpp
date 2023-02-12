@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615363377 source:d:\codeblocks\c++modesoffile\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+

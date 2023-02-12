@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615195171 source:d:\codeblocks\c++file_handling_writing\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+
